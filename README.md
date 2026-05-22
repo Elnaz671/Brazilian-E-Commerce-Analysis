@@ -40,7 +40,8 @@ Power BI dashboard includes:
 - Monthly Sales Trend
 - Top Sellers
 
----
+<img width="1768" height="920" alt="Dashboard" src="https://github.com/user-attachments/assets/7a6573ab-84fb-4faa-ab24-f80cc2a2b3cf" />
+
 
 ## Project Status
 Completed
